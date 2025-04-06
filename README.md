@@ -26,7 +26,7 @@ It contains various employee-related attributes such as:
 Run the following command in a Colab cell to install dependencies:
 
 ```python
-!pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn
+!pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn  
 ```
 
 ## Steps to Run the Notebook
