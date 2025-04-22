@@ -8,7 +8,7 @@ This project predicts employee attrition using machine learning techniques. It i
 
 The dataset is sourced from:
 [GitHub - YBI Foundation](https://github.com/YBI-Foundation/Dataset/raw/refs/heads/main/EmployeeAttrition.csv)
-It contains various employee-related attributes such as:
+It contains various employee-related attributes such as: 
 
 - Age
 - Job Role
